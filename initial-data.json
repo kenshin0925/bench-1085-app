@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "source": "ユーザー提供Excel",
+  "settings": {
+    "startWeight": 47.5,
+    "increment": 2.5,
+    "max": 75,
+    "bodyweight": 63,
+    "topStart": 65,
+    "topIncrement": 2.5
+  },
+  "sessions": []
+}
